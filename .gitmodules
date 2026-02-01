@@ -7,3 +7,6 @@
 [submodule "anchor-escrow-q1-26"]
 	path = anchor-escrow-q1-26
 	url = https://github.com/amalnathsathyan/anchor-escrow-q1-26.git
+[submodule "anchor-nft-staking-starter-q1-26"]
+	path = anchor-nft-staking-starter-q1-26
+	url = https://github.com/amalnathsathyan/anchor-nft-staking-starter-q1-26
