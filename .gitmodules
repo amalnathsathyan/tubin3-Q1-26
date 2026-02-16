@@ -10,3 +10,18 @@
 [submodule "anchor-nft-staking-starter-q1-26"]
 	path = anchor-nft-staking-starter-q1-26
 	url = https://github.com/amalnathsathyan/anchor-nft-staking-starter-q1-26
+[submodule "anchor-amm-starter-q1-26"]
+	path = anchor-amm-starter-q1-26
+	url = https://github.com/amalnathsathyan/anchor-amm-starter-q1-26.git
+[submodule "anchor-dice-game-starter-q1-26"]
+	path = anchor-dice-game-starter-q1-26
+	url = https://github.com/amalnathsathyan/anchor-dice-game-starter-q1-26
+[submodule "anchor-mplxcore-starter-q1-26"]
+	path = anchor-mplxcore-starter-q1-26
+	url = https://github.com/amalnathsathyan/anchor-mplxcore-starter-q1-26
+[submodule "quadratic-voting"]
+	path = quadratic-voting
+	url = https://github.com/amalnathsathyan/quadratic-voting
+[submodule "metlev-engine"]
+	path = metlev-engine
+	url = https://github.com/Metlev-Labs/metlev-engine
